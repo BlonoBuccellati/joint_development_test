@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <h3>田中湧也です。</h3>
+      <h3>清水です。</h3>
     </div>
   );
 }
