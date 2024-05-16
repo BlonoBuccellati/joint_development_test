@@ -3,7 +3,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <h3>tanaka!</h3>
+      <h3>nemui</h3>
     </div>
   );
 }
